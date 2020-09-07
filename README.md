@@ -6,7 +6,7 @@
 Cyber Security Tool For Securing Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 
 
-## Feutures and Contains :
+## Fetures and Contents:
 
 
 ```bash 
