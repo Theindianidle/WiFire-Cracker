@@ -50,9 +50,9 @@ Cyber Security Tool For Securing Wireless Connections Using Built-In Kali Tools.
 
 ```bash
 1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/ankit0183/Wifi-Hacking
-3) cd Wifi-Hacking/
-4) sudo python3 Wifi-Hacking.py
+2) sudo git clone https://github.com/theindianidle/wifire-cracker
+3) cd WiFi-Cracker/
+4) sudo python3 WiFi-Cracker.py
 ```
 
 
