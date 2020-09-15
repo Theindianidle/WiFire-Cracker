@@ -1,6 +1,6 @@
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)]
-[![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)]
-[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)]
+![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)
+![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)
+![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)
 
 # WiFire-Cracker  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
 Cyber Security Tool For Securing Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
