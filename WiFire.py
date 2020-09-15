@@ -237,7 +237,7 @@ Only use this framework to test your own WiFi. Non-consentual monitoring and/or 
 -----------------------------------------------------------------------------------------
 Cracking The Password By This Method Could Take Hours,Days,Weeks,Months to complete
 and the speed of cracking will reduce because you might generate a Huge,Huge Passwordlist which
-may reach to Hundreds of TeRa Bits- Please Be patiant
+may reach to Hundreds of TeRa Bits- Please Be patient
 """)
         print("\nEnter your choice here : ?")
         set = str(input(""))
